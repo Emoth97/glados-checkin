@@ -1,5 +1,5 @@
 # glados-checkin
-  每天自动签到（天数+1），自动推送结果
+  每天自动签到（天数+1），自动推送结果 
 
 # Github Actions说明
 ## 一、Fork此仓库
