@@ -1,6 +1,6 @@
 # glados-checkin
   每天自动签到（天数+1），自动推送结果 
- 
+  
 # Github Actions说明
 ## 一、Fork此仓库
 ![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
